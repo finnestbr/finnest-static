@@ -7,3 +7,8 @@ tarballs, their cosign Sigstore bundles, `install.sh`, `finnest.rb`, and
 Releases here are produced automatically by the finnest-power publish pipeline
 (the `static-mirror` distribution stage) and verified with cosign keyless
 (bundle-only) against the `finnestbr/finnest-power` release workflow identity.
+
+## License
+
+Proprietary — Copyright (c) 2026-2026 FINNEST LTDA. All rights reserved.
+See [LICENSE](LICENSE).
